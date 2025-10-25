@@ -1,0 +1,86 @@
+{
+  "Software Engineering and IT": [
+    { "value": "", "label": "Select A Project" },
+    {
+      "value": "Basic Website Development",
+      "label": "Basic Website Development"
+    },
+    {
+      "value": "Network Infrastructure Design",
+      "label": "Network Infrastructure Design"
+    },
+    {
+      "value": "Cybersecurity Risk Assessment",
+      "label": "Cybersecurity Risk Assessment"
+    },
+    {
+      "value": "Creating and Training an AI Model",
+      "label": "Creating and Training an AI Model"
+    },
+    { "value": "Other Project", "label": "Other" }
+  ],
+  "Finance and Banking": [
+    { "value": "", "label": "Select A Project" },
+    {
+      "value": "Budget Tracking Spreadsheet",
+      "label": "Budget Tracking Spreadsheet"
+    },
+    {
+      "value": "Investment Portfolio Analysis",
+      "label": "Investment Portfolio Analysis"
+    },
+    {
+      "value": "Financial Risk Assessment Report",
+      "label": "Financial Risk Assessment Report"
+    },
+    {
+      "value": "Mergers and Acquisitions Simulation",
+      "label": "Mergers and Acquisitions Simulation"
+    },
+    { "value": "Other Project", "label": "Other" }
+  ],
+  "Law and Legal Services": [
+    { "value": "", "label": "Select A Project" },
+    {
+      "value": "Legal Research Paper",
+      "label": "Legal Research Paper"
+    },
+    {
+      "value": "Case Brief Analysis",
+      "label": "Case Brief Analysis"
+    },
+    {
+      "value": "Legal Memorandum Drafting",
+      "label": "Legal Memorandum Drafting"
+    },
+    {
+      "value": "Mock Trial Preparation",
+      "label": "Mock Trial Preparation"
+    },
+    { "value": "Other Project", "label": "Other" }
+  ],
+  "Manufacturing and Production": [
+    { "value": "", "label": "Select A Project" },
+    {
+      "value": "Process Flowchart Creation",
+      "label": "Process Flowchart Creation"
+    },
+    {
+      "value": "Quality Control Inspection Plan",
+      "label": "Quality Control Inspection Plan"
+    },
+    {
+      "value": "Production Efficiency Analysis",
+      "label": "Production Efficiency Analysis"
+    },
+    {
+      "value": "Supply Chain Optimization Simulation",
+      "label": "Supply Chain Optimization Simulation"
+    },
+    { "value": "Other Project", "label": "Other" }
+  ],
+  "Other Field": [
+    { "value": "", "label": "Select A Project" },
+    { "value": "Other Project", "label": "Other Project" }
+  ]
+}

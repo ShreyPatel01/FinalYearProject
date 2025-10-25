@@ -1,0 +1,20 @@
+.alertContainer {
+    position: relative; /* Use relative positioning to keep it in the document flow */
+    z-index: 1;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    animation: fadeIn 0.3s forwards;
+}
+
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }

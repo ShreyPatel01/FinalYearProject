@@ -1,0 +1,16 @@
+{
+  "fields": [
+    { "value": "", "label": "Choose your field" },
+    {
+      "value": "Software Engineering and IT",
+      "label": "Software Engineering and IT"
+    },
+    { "value": "Finance and Banking", "label": "Finance and Banking" },
+    { "value": "Law and Legal Services", "label": "Law and Legal Services" },
+    {
+      "value": "Manufacturing and Production",
+      "label": "Manufacturing and Production"
+    },
+    { "value": "Other Field", "label": "Other" }
+  ]
+}

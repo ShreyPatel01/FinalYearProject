@@ -1,0 +1,7 @@
+.header {
+  position: fixed;
+  top: 0;
+  background: #f9f9f9;
+  width: 100%;
+  z-index: 1000;
+}

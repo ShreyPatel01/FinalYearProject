@@ -1,0 +1,30 @@
+.body {
+  padding-top: 5rem;
+}
+.header {
+  position: fixed;
+  top: 0;
+  background: #f9f9f9;
+  width: 100%;
+  z-index: 1;
+}
+.introSection {
+  height: 30rem;
+  background: #ffffff;
+}
+.applicationSlideshow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 5rem;
+  height: 50rem;
+  background: #f9f9f9;
+}
+.articles {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 30rem;
+  background: #ffffff;
+}
+

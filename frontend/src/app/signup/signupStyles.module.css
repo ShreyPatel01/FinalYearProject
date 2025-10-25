@@ -1,0 +1,22 @@
+.alertContainer {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0; /* Start with the element fully transparent */
+  animation: fadeIn 0.3s forwards; /* Apply the fadeIn animation over 1 second */
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
